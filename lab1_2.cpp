@@ -1,5 +1,5 @@
 #include <iostream>
-#include "lab2.h"
+#include "lab1_2.h"
 
 int main()
 {
